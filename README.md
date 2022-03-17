@@ -1,2 +1,2 @@
 # Agenda 
-Cadastra | Atualiza | Pesquisa | Deleta | Lista
+Contato pode ser: Cadastrado | Atualizado | Pesquisado | Deletado | Listado
